@@ -3988,10 +3988,71 @@ _ZN10BanzaiBill7profileE									= 0x02151FBC;
 _ZTV10BanzaiBill											= 0x021520DC;
 
 
+/* arm9_ov42 */
+/*-------------------------------------------------------------------*/
+/*----------------------------- bobomb ------------------------------*/
+/*-------------------------------------------------------------------*/
+
+_ZN6BobOmbD0Ev													= 0x0214BD54;
+_ZN6BobOmbD1Ev													= 0x0214BCEC;
+_ZN6BobOmbD2Ev													= 0x0214BCEC;
+_ZN6BobOmb8onCreateEv											= 0x0214CFA0;
+_ZN6BobOmb9onDestroyEv											= 0x0214C630;
+_ZN6BobOmb8onRenderEv											= 0x0214C758;
+_ZN6BobOmb14pendingDestroyEv									= 0x0214C638;
+_ZN6BobOmb18onPrepareResourcesEv								= 0x0214E244;
+_ZN6BobOmb10mainUpdateEv										= 0x0214C9EC;
+_ZN6BobOmb13updateGrabbedEv										= 0x0214D96C;
+_ZN6BobOmb12updateState7Ev 										= 0x0214D90C;
+_ZN6BobOmb15updateAnimationEv									= 0x0214C618;
+_ZN6BobOmb6thrownEv												= 0x0214DA7C;
+_ZN6BobOmb7stoppedEv											= 0x0214DA60;
+_ZN6BobOmb7grabbedEv											= 0x0214DAE8;
+_ZN6BobOmb7releaseEv											= 0x0214DAA0;
+_ZN6BobOmb10onBlockHitEv										= 0x0214C63C;
+_ZN6BobOmb13onFireballHitEv										= 0x0214C5AC;
+_ZN6BobOmb13onGroundPoundEv										= 0x0214C578;
+_ZN6BobOmb14entityCollisionER14ActiveColliderR10StageActor		= 0x0214CAA8;
+_ZN6BobOmb12damagePlayerER14ActiveColliderR6Player				= 0x0214CBFC;
+_ZN6BobOmb6defeatElllh											= 0x0214D19C;
+
+_ZN6BobOmb15getStunnedTimerEv									= 0x0214DED8;
+_ZN6BobOmb38setRotationAndVelocityBasedOnDirectionEv			= 0x0214D8C8;
+_ZN6BobOmb14kickedOrThrownEv									= 0x0214C118;
+_ZN6BobOmb27releaseFromPlayerAndExplodeEv						= 0x0214BDF8;
+
+_ZN6BobOmb11switchStateEMS_FbvE 								= 0x0214E150;
+_ZN6BobOmb11updateStateEv										= 0x0214E114;
+_ZN6BobOmb15turnAroundStateEv									= 0x0214E018;
+_ZN6BobOmb24walkAfterTurnAroundStateEv							= 0x0214DEFC;
+_ZN6BobOmb12stunnedStateEv 										= 0x0214DD64;
+_ZN6BobOmb16stopSlidingStateEv									= 0x0214DB38;
+_ZN6BobOmb11kickedStateEv										= 0x0214D744;
+_ZN6BobOmb12explodeStateEv 										= 0x0214D420;
+_ZN6BobOmb14montyTankStateEv									= 0x0214D344;
+_ZN6BobOmb10mainStateEv											= 0x0214D1E0;
+
+_ZN6BobOmb17explosionCallbackER14ActiveColliderS1_				= 0x0214C3C8;
+
+_ZN6BobOmb13loadResourcesEv										= 0x0214E29C;
+
+_ZN6BobOmb19tileRelatedIndiciesE								= 0x021519DC;
+_ZN6BobOmb30directionBasedXVelocityValues1E						= 0x021519E0;
+_ZN6BobOmb30directionBasedXVelocityValues2E						= 0x021519E4;
+_ZN6BobOmb29directionBasedYRotationValuesE						= 0x021519E8;
+_ZN6BobOmb9topSensorE											= 0x021519EC;
+_ZN6BobOmb10sideSensorE											= 0x021519F8;
+_ZN6BobOmb12bottomSensorE										= 0x02151A04;
+_ZN6BobOmb30directionBasedXVelocityValues3E						= 0x02151A10;
+_ZN6BobOmb29directionBasedYVelocityValuesE						= 0x02151A20;
+_ZN6BobOmb18activeColliderInfoE									= 0x02151A30;
+_ZN6BobOmb15explosionBounds										= 0x02151A4C;
+_ZN6BobOmb7profileE												= 0x02152460;
+
 /* arm9_ov54 */
-/*----------------------------------------------------------------*/
-/*----------------------------- amp ------------------------------*/
-/*----------------------------------------------------------------*/
+/*-----------------------------------------------------------------------*/
+/*--------------------------- trampoline --------------------------------*/
+/*-----------------------------------------------------------------------*/
 
 _ZN10TrampolineD0Ev										= 0x02154F88;
 _ZN10TrampolineD1Ev										= 0x02154F00;
