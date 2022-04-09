@@ -4273,6 +4273,24 @@ _ZTV8Splunkin													= 0x0217988C;
 
 /* arm9_ov87 */
 /*----------------------------------------------------------------*/
+/*------------------------ floating log --------------------------*/
+/*----------------------------------------------------------------*/
+
+_ZN11FloatingLogD0Ev									= 0x0217DBEC;
+_ZN11FloatingLogD1Ev									= 0x0217DBEC;
+_ZN11FloatingLogD2Ev									= 0x0217DB60;
+_ZN11FloatingLog8onCreateEv								= 0x0217DF68;
+_ZN11FloatingLog9onDestroyEv							= 0x0217DF0C;
+_ZN11FloatingLog8onRenderEv								= 0x0217DE10;
+_ZN11FloatingLog14pendingDestroyEv						= 0x0217DF08;
+_ZN11FloatingLog18onPrepareResourcesEv					= 0x0217DF30;
+_ZN11FloatingLog10mainUpdateEv							= 0x0217DCA4;
+_ZN11FloatingLog13loadResourcesEv						= 0x0217DC80;
+_ZN11FloatingLog7profileE								= 0x0217F600;
+_ZN11FloatingLog20rotatingPlatformInfoE					= 0x0217F60C;
+
+/* arm9_ov87 */
+/*----------------------------------------------------------------*/
 /*-------------------------- whirlpool ---------------------------*/
 /*----------------------------------------------------------------*/
 
@@ -4281,7 +4299,7 @@ _ZN9WhirlpoolD1Ev										= 0x0217F220;
 _ZN9WhirlpoolD2Ev										= 0x0217F220;
 _ZN9Whirlpool8onCreateEv								= 0x0217F0AC;
 _ZN9Whirlpool8onRenderEv								= 0x0217F018;
-_ZN9Whirlpool18onPrepareResources						= 0x0217F18C;
+_ZN9Whirlpool18onPrepareResourcesEv						= 0x0217F18C;
 _ZN9Whirlpool10mainUpdateEv								= 0x0217EFD4;
 _ZN9Whirlpool13loadResourcesEv							= 0x0217F480;
 
