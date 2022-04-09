@@ -3993,61 +3993,61 @@ _ZTV10BanzaiBill											= 0x021520DC;
 /*----------------------------- bobomb ------------------------------*/
 /*-------------------------------------------------------------------*/
 
-_ZN6BobOmbD0Ev													= 0x0214BD4C;
-_ZN6BobOmbD1Ev													= 0x0214BCE4;
-_ZN6BobOmbD2Ev													= 0x0214BCE4;
-_ZN6BobOmb8onCreateEv											= 0x0214CF98;
-_ZN6BobOmb9onDestroyEv											= 0x0214C628;
-_ZN6BobOmb8onRenderEv											= 0x0214C750;
-_ZN6BobOmb14pendingDestroyEv									= 0x0214C630;
-_ZN6BobOmb18onPrepareResourcesEv								= 0x0214E23C;
-_ZN6BobOmb10mainUpdateEv										= 0x0214C9E4;
-_ZN6BobOmb13updateCarriedEv										= 0x0214D964;
-_ZN6BobOmb13updateDroppedEv 									= 0x0214D904;
-_ZN6BobOmb15updateAnimationEv									= 0x0214C610;
-_ZN6BobOmb6thrownEv												= 0x0214DA74;
-_ZN6BobOmb7stoppedEv											= 0x0214DA58;
-_ZN6BobOmb7grabbedEv											= 0x0214DAE0;
-_ZN6BobOmb7releaseEv											= 0x0214DA98;
-_ZN6BobOmb10onBlockHitEv										= 0x0214C634;
-_ZN6BobOmb13onFireballHitEv										= 0x0214C5A4;
-_ZN6BobOmb13onGroundPoundEv										= 0x0214C570;
-_ZN6BobOmb14entityCollisionER14ActiveColliderR10StageActor		= 0x0214CAA0;
-_ZN6BobOmb12damagePlayerER14ActiveColliderR6Player				= 0x0214CBF4;
-_ZN6BobOmb6defeatElllh											= 0x0214D194;
+_ZN6BobOmbD0Ev													= 0x0214BD54;
+_ZN6BobOmbD1Ev													= 0x0214BCEC;
+_ZN6BobOmbD2Ev													= 0x0214BCEC;
+_ZN6BobOmb8onCreateEv											= 0x0214CFA0;
+_ZN6BobOmb9onDestroyEv											= 0x0214C630;
+_ZN6BobOmb8onRenderEv											= 0x0214C758;
+_ZN6BobOmb14pendingDestroyEv									= 0x0214C638;
+_ZN6BobOmb18onPrepareResourcesEv								= 0x0214E244;
+_ZN6BobOmb10mainUpdateEv										= 0x0214C9EC;
+_ZN6BobOmb13updateCarriedEv										= 0x0214D96C;
+_ZN6BobOmb13updateDroppedEv 									= 0x0214D90C;
+_ZN6BobOmb15updateAnimationEv									= 0x0214C618;
+_ZN6BobOmb6thrownEv												= 0x0214DA7C;
+_ZN6BobOmb7stoppedEv											= 0x0214DA60;
+_ZN6BobOmb7grabbedEv											= 0x0214DAE8;
+_ZN6BobOmb7releaseEv											= 0x0214DAA0;
+_ZN6BobOmb10onBlockHitEv										= 0x0214C63C;
+_ZN6BobOmb13onFireballHitEv										= 0x0214C5AC;
+_ZN6BobOmb13onGroundPoundEv										= 0x0214C578;
+_ZN6BobOmb14entityCollisionER14ActiveColliderR10StageActor		= 0x0214CAA8;
+_ZN6BobOmb12damagePlayerER14ActiveColliderR6Player				= 0x0214CBFC;
+_ZN6BobOmb6defeatElllh											= 0x0214D19C;
 
-_ZN6BobOmb15getStunnedTimerEv									= 0x0214DED0;
-_ZN6BobOmb20setDirectionalValuesEv								= 0x0214D8C0;
-_ZN6BobOmb14kickedOrThrownEv									= 0x0214C110;
-_ZN6BobOmb27releaseFromPlayerAndExplodeEv						= 0x0214BDF0;
+_ZN6BobOmb15getStunnedTimerEv									= 0x0214DED8;
+_ZN6BobOmb20setDirectionalValuesEv								= 0x0214D8C8;
+_ZN6BobOmb14kickedOrThrownEv									= 0x0214C118;
+_ZN6BobOmb27releaseFromPlayerAndExplodeEv						= 0x0214BDF8;
 
-_ZN6BobOmb11switchStateEMS_FbvE 								= 0x0214E148;
-_ZN6BobOmb11updateStateEv										= 0x0214E10C;
-_ZN6BobOmb15turnAroundStateEv									= 0x0214E010;
-_ZN6BobOmb24walkAfterTurnAroundStateEv							= 0x0214DEF4;
-_ZN6BobOmb12stunnedStateEv 										= 0x0214DD58;
-_ZN6BobOmb16stopSlidingStateEv									= 0x0214DB30;
-_ZN6BobOmb11kickedStateEv										= 0x0214D73C;
-_ZN6BobOmb12explodeStateEv 										= 0x0214D418;
-_ZN6BobOmb14montyTankStateEv									= 0x0214D33C;
-_ZN6BobOmb10mainStateEv											= 0x0214D1D8;
+_ZN6BobOmb11switchStateEMS_FbvE 								= 0x0214E150;
+_ZN6BobOmb11updateStateEv										= 0x0214E114;
+_ZN6BobOmb9turnStateEv											= 0x0214E018;
+_ZN6BobOmb24walkAfterTurnAroundStateEv							= 0x0214DEFC;
+_ZN6BobOmb12stunnedStateEv 										= 0x0214DD64;
+_ZN6BobOmb14stopSlideStateEv									= 0x0214DB38;
+_ZN6BobOmb11kickedStateEv										= 0x0214D744;
+_ZN6BobOmb12explodeStateEv 										= 0x0214D420;
+_ZN6BobOmb17stunnedSpawnStateEv									= 0x0214D344;
+_ZN6BobOmb10mainStateEv											= 0x0214D1E0;
 
-_ZN6BobOmb17explosionCallbackER14ActiveColliderS1_				= 0x0214C3C0;
+_ZN6BobOmb14activeCallbackER14ActiveColliderS1_					= 0x0214C3C8;
 
-_ZN6BobOmb13loadResourcesEv										= 0x0214E294;
+_ZN6BobOmb13loadResourcesEv										= 0x0214E29C;
 
-_ZN6BobOmb19tileRelatedIndiciesE								= 0x021519D4;
-_ZN6BobOmb20directionBasedXVels1E								= 0x021519C8;
-_ZN6BobOmb20directionBasedXVels2E								= 0x021519CC;
-_ZN6BobOmb19directionBasedYRotsE								= 0x021519E0;
-_ZN6BobOmb9topSensorE											= 0x021519E4;
-_ZN6BobOmb10sideSensorE											= 0x021519F0;
-_ZN6BobOmb12bottomSensorE										= 0x021519FC;
-_ZN6BobOmb20directionBasedXVels3E								= 0x02151A08;
-_ZN6BobOmb19directionBasedYVelsE								= 0x02151A18;
-_ZN6BobOmb18activeColliderInfoE									= 0x02151A28;
-_ZN6BobOmb15explosionBounds										= 0x02151A44;
-_ZN6BobOmb7profileE												= 0x02152458;
+_ZN6BobOmb16effectSpawnTypeE									= 0x021519DC;
+_ZN6BobOmb20directionBasedXVels1E								= 0x021519E0;
+_ZN6BobOmb20directionBasedXVels2E								= 0x021519E4;
+_ZN6BobOmb19directionBasedYRotsE								= 0x021519E8;
+_ZN6BobOmb9topSensorE											= 0x021519EC;
+_ZN6BobOmb10sideSensorE											= 0x021519F8;
+_ZN6BobOmb12bottomSensorE										= 0x02151A04;
+_ZN6BobOmb20directionBasedXVels3E								= 0x02151A10;
+_ZN6BobOmb19directionBasedYVelsE								= 0x02151A20;
+_ZN6BobOmb18activeColliderInfoE									= 0x02151A30;
+_ZN6BobOmb15explosionBoundsE									= 0x02151A4C;
+_ZN6BobOmb7profileE												= 0x02152460;
 
 /* arm9_ov54 */
 /*-----------------------------------------------------------------------*/
@@ -4271,6 +4271,34 @@ _ZN8Splunkin7profileE											= 0x02179880;
 
 _ZTV8Splunkin													= 0x0217988C;
 
+/* arm9_ov87 */
+/*----------------------------------------------------------------*/
+/*-------------------------- whirlpool ---------------------------*/
+/*----------------------------------------------------------------*/
+
+_ZN9WhirlpoolD0Ev										= 0x0217F2A0;
+_ZN9WhirlpoolD1Ev										= 0x0217F220;
+_ZN9WhirlpoolD2Ev										= 0x0217F220;
+_ZN9Whirlpool8onCreateEv								= 0x0217F0AC;
+_ZN9Whirlpool8onRenderEv								= 0x0217F018;
+_ZN9Whirlpool18onPrepareResources						= 0x0217F18C;
+_ZN9Whirlpool10mainUpdateEv								= 0x0217EFD4;
+_ZN9Whirlpool13loadResourcesEv							= 0x0217F480;
+
+_ZN9Whirlpool15playSoundEffectEv						= 0x0217EE2C;
+
+_ZN9Whirlpool11switchStateEMS_FbvE						= 0x0217EEE0;
+_ZN9Whirlpool11updateStateEv							= 0x0217EE78;
+
+_ZN9Whirlpool16changeSizeStateEv						= 0x0217EBA4;
+_ZN9Whirlpool14inactiveStateEv							= 0x0217EC48;
+_ZN9Whirlpool12activeStateEv							= 0x0217ED44;
+
+_ZN9Whirlpool14activeCallbackER14ActiveColliderS1_		= 0x0217F388;
+
+_ZN9Whirlpool7profileE									= 0x0217F89C;
+_ZN9Whirlpool12cameraBoundsE							= 0x0217F5D0;
+_ZN9Whirlpool18activeColliderInfoE						= 0x0217F5E0;
 
 /* arm9_ov98 */
 /*----------------------------------------------------------------*/
